@@ -1,0 +1,3 @@
+module ActsAsRelationable
+  # Your code goes here...
+end
